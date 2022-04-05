@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.exe
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.deps.json
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.runtimeconfig.json
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.dll
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\bin\Debug\net6.0\PrimeirosExercicios.pdb
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.dll
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\refint\PrimeirosExercicios.dll
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.pdb
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\PrimeirosExercicios.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Secao4\PrimeirosExercicios\obj\Debug\net6.0\ref\PrimeirosExercicios.dll

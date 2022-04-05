@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\bin\Debug\net6.0\ExercicioEstaticoCotacao.exe
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\bin\Debug\net6.0\ExercicioEstaticoCotacao.deps.json
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\bin\Debug\net6.0\ExercicioEstaticoCotacao.runtimeconfig.json
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\bin\Debug\net6.0\ExercicioEstaticoCotacao.dll
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\bin\Debug\net6.0\ExercicioEstaticoCotacao.pdb
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.dll
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\refint\ExercicioEstaticoCotacao.dll
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.pdb
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ExercicioEstaticoCotacao.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioEstaticoCotacao\obj\Debug\net6.0\ref\ExercicioEstaticoCotacao.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\bin\Debug\net6.0\ExercicioMembroEstatico.exe
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\bin\Debug\net6.0\ExercicioMembroEstatico.deps.json
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\bin\Debug\net6.0\ExercicioMembroEstatico.runtimeconfig.json
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\bin\Debug\net6.0\ExercicioMembroEstatico.dll
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\bin\Debug\net6.0\ExercicioMembroEstatico.pdb
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.dll
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\refint\ExercicioMembroEstatico.dll
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.pdb
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ExercicioMembroEstatico.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Secao4\ExercicioMembroEstatico\obj\Debug\net6.0\ref\ExercicioMembroEstatico.dll

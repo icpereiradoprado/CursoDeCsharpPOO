@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\bin\Debug\net6.0\ListaDeExercicio.exe
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\bin\Debug\net6.0\ListaDeExercicio.deps.json
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\bin\Debug\net6.0\ListaDeExercicio.runtimeconfig.json
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\bin\Debug\net6.0\ListaDeExercicio.dll
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\bin\Debug\net6.0\ListaDeExercicio.pdb
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.dll
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\refint\ListaDeExercicio.dll
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.pdb
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ListaDeExercicio.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Secao4\ListaDeExercicio\obj\Debug\net6.0\ref\ListaDeExercicio.dll
