@@ -11,7 +11,7 @@ namespace ExercicioBanco
     {
         //atributos
         private string _nomeTitular;
-        public double ValorInicialDeposito { get; private set; }
+        public double Saldo { get; private set; }
         public string NumeroConta { get; private set; }
 
         //Construtores
@@ -24,7 +24,7 @@ namespace ExercicioBanco
 
         public ContaBancaria(string numeroConta, string nomeTitular, double valorInicialDeposito) : this(numeroConta, nomeTitular)
         {
-            this.ValorInicialDeposito = valorInicialDeposito;
+            Deposito(valorInicialDeposito);
         }
 
         //Custom Properties
@@ -44,18 +44,25 @@ namespace ExercicioBanco
         //demais métodos
         public double Deposito(double valorDeposito)
         {
-            return this.ValorInicialDeposito += valorDeposito;
+            if (valorDeposito > 0)
+            {
+                this.Saldo += valorDeposito;
+            }
+            return Saldo;
         }
 
         public double Saque(double valorSaque)
         {
-            this.ValorInicialDeposito = (this.ValorInicialDeposito - valorSaque) - 5.00;
-            return this.ValorInicialDeposito;
+            if (valorSaque > 0)
+            {
+                this.Saldo = (this.Saldo - valorSaque) - 5.00;
+            }
+            return this.Saldo;
         }
 
         public override string ToString()
         {
-            return $"\nConta: {this.NumeroConta} | Titular: {this._nomeTitular} | Saldo R$ {this.ValorInicialDeposito:F2}";
+            return $"Conta: {this.NumeroConta} | Titular: {this._nomeTitular} | Saldo R$ {this.Saldo:F2}\n";
         }
 
     }
