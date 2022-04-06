@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\bin\Debug\net6.0\Secao6.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\bin\Debug\net6.0\Secao6.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\bin\Debug\net6.0\Secao6.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\bin\Debug\net6.0\Secao6.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\bin\Debug\net6.0\Secao6.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\refint\Secao6.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\Secao6.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Secao6\obj\Debug\net6.0\ref\Secao6.dll

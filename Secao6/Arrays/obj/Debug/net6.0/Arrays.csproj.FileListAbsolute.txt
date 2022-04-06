@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\Arrays\obj\Debug\net6.0\ref\Arrays.dll
