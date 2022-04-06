@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
+      "projectUniqueName": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
       "projectName": "ExercicioTriangulo",
-      "projectPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
+      "projectPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
       "packagesPath": "C:\\Users\\Requestia\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioTriangulo\\obj\\",
+      "outputPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioTriangulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Secao5\Secao5\bin\Debug\net6.0\Secao5.exe
+C:\Temp\ws-vs2022\Secao5\Secao5\bin\Debug\net6.0\Secao5.deps.json
+C:\Temp\ws-vs2022\Secao5\Secao5\bin\Debug\net6.0\Secao5.runtimeconfig.json
+C:\Temp\ws-vs2022\Secao5\Secao5\bin\Debug\net6.0\Secao5.dll
+C:\Temp\ws-vs2022\Secao5\Secao5\bin\Debug\net6.0\Secao5.pdb
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.dll
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\refint\Secao5.dll
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.pdb
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\Secao5.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Secao5\Secao5\obj\Debug\net6.0\ref\Secao5.dll

@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\Secao5\Properties\bin\Debug\net6.0\Properties.exe
+C:\Temp\ws-vs2022\Secao5\Properties\bin\Debug\net6.0\Properties.deps.json
+C:\Temp\ws-vs2022\Secao5\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+C:\Temp\ws-vs2022\Secao5\Properties\bin\Debug\net6.0\Properties.dll
+C:\Temp\ws-vs2022\Secao5\Properties\bin\Debug\net6.0\Properties.pdb
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.dll
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\refint\Properties.dll
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.pdb
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+C:\Temp\ws-vs2022\Secao5\Properties\obj\Debug\net6.0\ref\Properties.dll

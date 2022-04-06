@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioMembroEstatico\\ExercicioMembroEstatico.csproj",
+      "projectUniqueName": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioMembroEstatico\\ExercicioMembroEstatico.csproj",
       "projectName": "ExercicioMembroEstatico",
-      "projectPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioMembroEstatico\\ExercicioMembroEstatico.csproj",
+      "projectPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioMembroEstatico\\ExercicioMembroEstatico.csproj",
       "packagesPath": "C:\\Users\\Requestia\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioMembroEstatico\\obj\\",
+      "outputPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioMembroEstatico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

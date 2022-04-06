@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "shxDkyVj4MTQhKeQdlmrfbB6cWidr+Wh37acxaHjIsoIsMhA6dqkerFMhiupIj5oRPbbiJKxaA0A5RUYg0mgJg==",
+  "dgSpecHash": "YySnA6XbYn8CzvXdyH27eopP0UMgW/L6P+GAyxmNMDZpgy2LG9BA01ikwpihPOLCD93V47PaxD6a4cSGLjGdcA==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
+  "projectFilePath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

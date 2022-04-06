@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj": {}
+    "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj": {
+    "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj",
+        "projectUniqueName": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj",
         "projectName": "ExercicioProduto",
-        "projectPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj",
+        "projectPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioProduto\\ExercicioProduto.csproj",
         "packagesPath": "C:\\Users\\Requestia\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioProduto\\obj\\",
+        "outputPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioProduto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

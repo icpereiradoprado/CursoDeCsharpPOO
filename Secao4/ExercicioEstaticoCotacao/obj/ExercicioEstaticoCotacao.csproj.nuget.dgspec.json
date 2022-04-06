@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj": {}
+    "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj": {
+    "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj",
+        "projectUniqueName": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj",
         "projectName": "ExercicioEstaticoCotacao",
-        "projectPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj",
+        "projectPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioEstaticoCotacao\\ExercicioEstaticoCotacao.csproj",
         "packagesPath": "C:\\Users\\Requestia\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\ws-vs2022\\Secao4\\ExercicioEstaticoCotacao\\obj\\",
+        "outputPath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao4\\ExercicioEstaticoCotacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
