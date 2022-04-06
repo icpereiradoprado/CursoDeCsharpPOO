@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxxK4is7Z8KeYHnM4O24akxYixbXPctUnWHaV4zq6dgNJDwTC43/hSJnzpnGztZIfLSrizjqaSkErXLzH26pPw==",
+  "dgSpecHash": "AhYKAOYcWR35Y/+XyQrKuWgwzMYMWzBY0ui08WpuuwKksoMr/+Yd14Kr/spOLJZbhpQa+7AnUdrDOPJP61Eliw==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\ws-vs2022\\Secao5\\Properties\\Properties.csproj",
+  "projectFilePath": "C:\\Temp\\ws-vs2022\\CursoDeCsharpPOO\\Secao5\\Properties\\Properties.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

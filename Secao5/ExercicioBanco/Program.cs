@@ -7,7 +7,6 @@ namespace ExercicioBanco
     {
         static void Main(string[] args)
         {
-            char[] resposta = new char[1];
 
             while (true)
             {
@@ -18,10 +17,10 @@ namespace ExercicioBanco
                 string nomeTitular = Console.ReadLine();
 
                 Console.Write("Haverá depósito inicial? [s/n]: ");
-                resposta[0] = char.Parse(Console.ReadLine());
+                char resposta = char.Parse(Console.ReadLine());
 
             
-                if (resposta[0] == 'S' || resposta[0] == 's')
+                if (resposta == 'S' || resposta == 's')
                 {
                     Console.Write("Entre com o valor de depósito inicial: ");
                     double valorInicialDeposito = double.Parse(Console.ReadLine());
@@ -43,7 +42,7 @@ namespace ExercicioBanco
                     break;
 
                 }
-                else if (resposta[0] == 'N' || resposta[0] == 'n')
+                else if (resposta == 'N' || resposta == 'n')
                 {
                     ContaBancaria conta1 = new ContaBancaria(numeroConta, nomeTitular);
                     Console.WriteLine(conta1);
