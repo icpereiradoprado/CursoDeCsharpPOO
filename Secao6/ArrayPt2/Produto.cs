@@ -10,7 +10,5 @@ namespace ArrayPt2
     {
         public string Nome { get; set; }
         public double Preco { get; set; }
-
-
     }
 }

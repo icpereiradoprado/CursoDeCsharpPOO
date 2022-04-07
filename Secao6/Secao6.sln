@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao6", "Secao6\Secao6.csproj", "{5FC129AB-AC44-4909-9F62-878D3E1524E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Secao6", "Secao6\Secao6.csproj", "{5FC129AB-AC44-4909-9F62-878D3E1524E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{73DF9D72-1473-4282-BFE4-8DC6CF661357}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{73DF9D72-1473-4282-BFE4-8DC6CF661357}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPt2", "ArrayPt2\ArrayPt2.csproj", "{89D4D8F4-301C-4818-8F6F-C8BF81A3F414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayPt2", "ArrayPt2\ArrayPt2.csproj", "{89D4D8F4-301C-4818-8F6F-C8BF81A3F414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPensionato", "ExercicioPensionato\ExercicioPensionato.csproj", "{2B9B7C3C-165D-4B40-BF6D-A9CA3457D1FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{89D4D8F4-301C-4818-8F6F-C8BF81A3F414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D4D8F4-301C-4818-8F6F-C8BF81A3F414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D4D8F4-301C-4818-8F6F-C8BF81A3F414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B9B7C3C-165D-4B40-BF6D-A9CA3457D1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9B7C3C-165D-4B40-BF6D-A9CA3457D1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9B7C3C-165D-4B40-BF6D-A9CA3457D1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9B7C3C-165D-4B40-BF6D-A9CA3457D1FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\bin\Debug\net6.0\ExercicioPensionato.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\bin\Debug\net6.0\ExercicioPensionato.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\bin\Debug\net6.0\ExercicioPensionato.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\bin\Debug\net6.0\ExercicioPensionato.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\bin\Debug\net6.0\ExercicioPensionato.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\refint\ExercicioPensionato.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ExercicioPensionato.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioPensionato\obj\Debug\net6.0\ref\ExercicioPensionato.dll
