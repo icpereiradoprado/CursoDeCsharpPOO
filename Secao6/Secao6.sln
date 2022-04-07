@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioListFuncionario", "ExercicioListFuncionario\ExercicioListFuncionario.csproj", "{E54EC394-8B1C-40BE-B4C9-3611271075EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatriz", "ExercicioMatriz\ExercicioMatriz.csproj", "{94012061-7285-45FE-877F-B1193511236F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E54EC394-8B1C-40BE-B4C9-3611271075EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E54EC394-8B1C-40BE-B4C9-3611271075EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E54EC394-8B1C-40BE-B4C9-3611271075EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94012061-7285-45FE-877F-B1193511236F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94012061-7285-45FE-877F-B1193511236F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94012061-7285-45FE-877F-B1193511236F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94012061-7285-45FE-877F-B1193511236F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

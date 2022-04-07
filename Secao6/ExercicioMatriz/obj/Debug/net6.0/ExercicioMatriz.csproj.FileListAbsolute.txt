@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\bin\Debug\net6.0\ExercicioMatriz.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\refint\ExercicioMatriz.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ExercicioMatriz.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioMatriz\obj\Debug\net6.0\ref\ExercicioMatriz.dll
