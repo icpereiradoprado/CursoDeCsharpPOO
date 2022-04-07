@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\bin\Debug\net6.0\ModificadorParams.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\bin\Debug\net6.0\ModificadorParams.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\bin\Debug\net6.0\ModificadorParams.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\bin\Debug\net6.0\ModificadorParams.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\bin\Debug\net6.0\ModificadorParams.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\refint\ModificadorParams.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ModificadorParams.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ModificadorParams\obj\Debug\net6.0\ref\ModificadorParams.dll

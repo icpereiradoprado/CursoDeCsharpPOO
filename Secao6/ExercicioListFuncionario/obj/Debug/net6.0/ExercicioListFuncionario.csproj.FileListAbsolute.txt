@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\bin\Debug\net6.0\ExercicioListFuncionario.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\bin\Debug\net6.0\ExercicioListFuncionario.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\bin\Debug\net6.0\ExercicioListFuncionario.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\bin\Debug\net6.0\ExercicioListFuncionario.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\bin\Debug\net6.0\ExercicioListFuncionario.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\refint\ExercicioListFuncionario.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ExercicioListFuncionario.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao6\ExercicioListFuncionario\obj\Debug\net6.0\ref\ExercicioListFuncionario.dll
