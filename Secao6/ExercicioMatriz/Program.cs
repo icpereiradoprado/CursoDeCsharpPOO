@@ -39,7 +39,7 @@ namespace ExercicioMatriz
                 
             }
 
-            Console.Write("Digite um número existente na matriz: ");
+            Console.Write("\nDigite um número existente na matriz: ");
             int numero = int.Parse(Console.ReadLine());
 
             
@@ -52,24 +52,23 @@ namespace ExercicioMatriz
                         Console.WriteLine($"Posição => ({i}x{j})");
                         if(j > 0)
                         {
-                            Console.WriteLine($"Esquerda: {matriz[i-1,j]}");
+                            Console.WriteLine($"Esquerda: {matriz[i,j-1]}");
                         }
                         if (i > 0)
                         {
-                            Console.WriteLine($"Acima: {matriz[i,j-1]}");
+                            Console.WriteLine($"Acima: {matriz[i-1,j]}");
                         }
                         if(i < linha - 1)
                         {
-                            Console.WriteLine($"Abaixo: {matriz[i,j+1]}");
+                            Console.WriteLine($"Abaixo: {matriz[i+1,j]}");
                         }
                         if(j < coluna - 1)
                         {
-                            Console.WriteLine($"Direita: {matriz[i+1,j]}");
+                            Console.WriteLine($"Direita: {matriz[i,j+1]}");
                         }
                     }
                 }
             }
-            
             //for para mostrar os valores da matriz
             for (int i = 0; i < linha; i++)
             {
