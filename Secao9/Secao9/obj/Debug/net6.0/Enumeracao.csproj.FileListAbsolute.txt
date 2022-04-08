@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\bin\Debug\net6.0\Enumeracao.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\bin\Debug\net6.0\Enumeracao.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\bin\Debug\net6.0\Enumeracao.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\bin\Debug\net6.0\Enumeracao.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\bin\Debug\net6.0\Enumeracao.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\refint\Enumeracao.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\Enumeracao.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao9\Secao9\obj\Debug\net6.0\ref\Enumeracao.dll
