@@ -47,7 +47,7 @@ namespace ExercicioContrato.Entities
             {
                 if(contract.Date.Year == year && contract.Date.Month == month)
                 {
-                    contract.TotalValue();
+                    sum += contract.TotalValue();
                 }
             }
             return sum;

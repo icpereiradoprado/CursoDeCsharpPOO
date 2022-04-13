@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\refint\ExercicioProduto.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao10\ExercicioProduto\obj\Debug\net6.0\ref\ExercicioProduto.dll

@@ -33,6 +33,7 @@ namespace ExercicioPensionato
                 string nomeEstudante = Console.ReadLine();
                 Console.Write("E-mail: ");
                 string emailEstudante = Console.ReadLine();
+ 
                 while (true)
                 {
                     Console.Write("Quarto: ");
@@ -47,6 +48,7 @@ namespace ExercicioPensionato
                     {
                         Console.WriteLine("Quarto Ocupado!! Por favor escolha outro. ");
                     }
+
                 }
                 
             }
