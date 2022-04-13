@@ -16,31 +16,23 @@ namespace ExercicioProduto
             {
                 Console.WriteLine($"Product #{i} data:");
                 Console.Write("Common, used or imported [c/u/i]? ");
+                Console.Write("Name: ");
+                string nameProduct = Console.ReadLine();
+                Console.Write("Price: ");
+                double priceProduct = double.Parse(Console.ReadLine());
                 char option = char.Parse(Console.ReadLine());
                 if(option == 'c')
-                {
-                    Console.Write("Name: ");
-                    string nameProduct = Console.ReadLine();
-                    Console.Write("Price: ");
-                    double priceProduct = double.Parse(Console.ReadLine());
+                { 
                     product.Add(new Product(nameProduct, priceProduct));
                 }
                 else if(option == 'u')
                 {
-                    Console.Write("Name: ");
-                    string nameProduct = Console.ReadLine();
-                    Console.Write("Price: ");
-                    double priceProduct = double.Parse(Console.ReadLine());
                     Console.Write("Manufacutere date (DD/MM/YYYY): ");
                     DateTime manufacutereDate = DateTime.Parse(Console.ReadLine());
                     product.Add(new UsedProduct(nameProduct, priceProduct, manufacutereDate));
                 }
                 else
                 {
-                    Console.Write("Name: ");
-                    string nameProduct = Console.ReadLine();
-                    Console.Write("Price: ");
-                    double priceProduct = double.Parse(Console.ReadLine());
                     Console.Write("Customs fee: ");
                     double customsFee= double.Parse(Console.ReadLine());
                     product.Add(new ImportedProduct(nameProduct, priceProduct, customsFee));
