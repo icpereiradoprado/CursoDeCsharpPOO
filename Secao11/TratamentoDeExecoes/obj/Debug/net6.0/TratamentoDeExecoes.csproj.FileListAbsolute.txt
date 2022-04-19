@@ -1,0 +1,15 @@
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\bin\Debug\net6.0\TratamentoDeExecoes.exe
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\bin\Debug\net6.0\TratamentoDeExecoes.deps.json
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\bin\Debug\net6.0\TratamentoDeExecoes.runtimeconfig.json
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\bin\Debug\net6.0\TratamentoDeExecoes.dll
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\bin\Debug\net6.0\TratamentoDeExecoes.pdb
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.csproj.AssemblyReference.cache
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.AssemblyInfoInputs.cache
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.AssemblyInfo.cs
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.csproj.CoreCompileInputs.cache
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.dll
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\refint\TratamentoDeExecoes.dll
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.pdb
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\TratamentoDeExecoes.genruntimeconfig.cache
+C:\CursoDeCsharpPOO\Secao11\TratamentoDeExecoes\obj\Debug\net6.0\ref\TratamentoDeExecoes.dll
