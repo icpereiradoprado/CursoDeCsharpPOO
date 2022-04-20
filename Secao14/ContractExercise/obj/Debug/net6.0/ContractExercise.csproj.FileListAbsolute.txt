@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\bin\Debug\net6.0\ContractExercise.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\bin\Debug\net6.0\ContractExercise.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\bin\Debug\net6.0\ContractExercise.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\bin\Debug\net6.0\ContractExercise.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\bin\Debug\net6.0\ContractExercise.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\refint\ContractExercise.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ContractExercise.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao14\ContractExercise\obj\Debug\net6.0\ref\ContractExercise.dll
