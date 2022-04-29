@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\bin\Debug\net6.0\FixationExercise.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\bin\Debug\net6.0\FixationExercise.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\bin\Debug\net6.0\FixationExercise.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\bin\Debug\net6.0\FixationExercise.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\bin\Debug\net6.0\FixationExercise.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\refint\FixationExercise.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\FixationExercise.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\FixationExercise\obj\Debug\net6.0\ref\FixationExercise.dll

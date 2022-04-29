@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\bin\Debug\net6.0\Comparison.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\bin\Debug\net6.0\Comparison.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\bin\Debug\net6.0\Comparison.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\bin\Debug\net6.0\Comparison.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\bin\Debug\net6.0\Comparison.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\refint\Comparison.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\Comparison.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\Comparison\obj\Debug\net6.0\ref\Comparison.dll

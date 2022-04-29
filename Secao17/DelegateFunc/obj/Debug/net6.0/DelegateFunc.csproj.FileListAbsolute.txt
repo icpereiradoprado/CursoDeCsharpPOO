@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\bin\Debug\net6.0\DelegateFunc.exe
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\bin\Debug\net6.0\DelegateFunc.deps.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\bin\Debug\net6.0\DelegateFunc.runtimeconfig.json
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\bin\Debug\net6.0\DelegateFunc.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\bin\Debug\net6.0\DelegateFunc.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.AssemblyInfo.cs
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\refint\DelegateFunc.dll
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.pdb
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\DelegateFunc.genruntimeconfig.cache
+C:\Temp\ws-vs2022\CursoDeCsharpPOO\Secao17\DelegateFunc\obj\Debug\net6.0\ref\DelegateFunc.dll
